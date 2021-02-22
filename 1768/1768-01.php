@@ -1,5 +1,5 @@
+<?php
 class Solution {
-
     /**
      * @param String $word1
      * @param String $word2
@@ -32,7 +32,6 @@ class Solution {
                 $i++;
             }
         }
-        
         return $ret;
     }
 }
